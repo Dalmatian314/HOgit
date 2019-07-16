@@ -2,6 +2,7 @@
 Repositorio con ejercicios para practicar comandos básicos de git
 
 hola
+que tal
 ## Qué podemos hacer
 
 ### Commits
